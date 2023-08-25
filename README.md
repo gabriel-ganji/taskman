@@ -1,0 +1,2 @@
+# taskman
+Angular project structure
